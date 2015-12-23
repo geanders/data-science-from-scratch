@@ -1,5 +1,6 @@
 from __future__ import division
 from collections import Counter
+import matplotlib.pyplot as plt
 import math, random
 
 def random_kid():
